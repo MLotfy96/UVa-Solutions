@@ -1,2 +1,2 @@
 # UVa Solutions
-C++ Solutions for UVa Online Judge Problems
+C++ solutions for UVa Online Judge problems.
